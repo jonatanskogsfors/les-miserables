@@ -1,8 +1,10 @@
 # Samhällets Olycksbarn
-Jenni och jag läser samhällets olycksbarn 2024.
+Jenni och jag läser Samhällets Olycksbarn 2024.
 
 ## Progress
-[Alla böcker](https://github.com/jonatanskogsfors/les-miserables/milestones?direction=asc&sort=due_date&state=open)
+- [Alla böcker](https://github.com/jonatanskogsfors/les-miserables/milestones?direction=asc&sort=due_date&state=open)
+- [Alla kapitel](https://github.com/jonatanskogsfors/les-miserables/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc)
+
 
 ### Volym I: Fantine
 - [Bok I](https://github.com/jonatanskogsfors/les-miserables/milestone/1)
