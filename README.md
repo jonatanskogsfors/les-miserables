@@ -1,5 +1,7 @@
 # Samhällets Olycksbarn
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Ajonatanskogsfors%2Fles-miserables%2520is%3Aissue%2520is%3Aopen%26per_page%3D1&query=total_count&label=Kapitel%20kvar)
+![Dynamic JSON Badge](https://progress-bar.xyz/332/?scale=365&title=Progress&width=300)<br/>
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Ajonatanskogsfors%2Fles-miserables%2520is%3Aissue%2520is%3Aclosed%26per_page%3D1&query=total_count&label=Lästa%20kapitel) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Ajonatanskogsfors%2Fles-miserables%2520is%3Aissue%2520is%3Aopen%26per_page%3D1&query=total_count&label=Kapitel%20kvar)<br/>
+
 
 Jenni och jag läser Samhällets Olycksbarn 2024.
 
