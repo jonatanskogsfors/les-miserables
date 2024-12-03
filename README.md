@@ -1,4 +1,6 @@
 # Samhällets Olycksbarn
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Ajonatanskogsfors%2Fles-miserables%2520is%3Aissue%2520is%3Aopen%26per_page%3D1&query=total_count&label=Kapitel%20kvar)
+
 Jenni och jag läser Samhällets Olycksbarn 2024.
 
 ## Progress
