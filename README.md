@@ -4,7 +4,8 @@
 ![Badge - Dagar kvar](https://badgen.net/runkit/jonatanskogsfors/les-time?scale=2%cacheLive=300)
 ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/les-progres?scale=2%cacheLive=300)
 
-Jenni och jag läser Samhällets Olycksbarn 2024.
+Jenni och jag läser Samhällets olycksbarn av Victor Hugo under 2024.
+Boken har 365 kapitel och målet är att vi ska bli klara på nyårsafton.
 
 ## Progress
 - [Alla böcker](https://github.com/jonatanskogsfors/les-miserables/milestones?direction=asc&sort=due_date&state=open)
