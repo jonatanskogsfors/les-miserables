@@ -1,0 +1,28 @@
+name: Purge badge caches
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Purge "Lästa kapitel" badge cache
+        run: curl -X PURGE https://camo.githubusercontent.com/77a844c40ce0dc4b15f36fe8d66a94fc4855107f6ac5ef78b8a0db541fb00a5d/68747470733a2f2f62616467656e2e6e65742f6769746875622f636c6f7365642d6973737565732f6a6f6e6174616e736b6f6773666f72732f6c65732d6d6973657261626c65733f6c6162656c3d4c2543332541347374612532306b61706974656c267363616c653d3226616368654c6976653d333030
+      - name: Purge "Kapitel kvar" badge cache
+        run: curl -X PURGE https://camo.githubusercontent.com/028416c7ac78cb87dff5545f11c323a6581b32b3559a17bba4db408b9ae0d644/68747470733a2f2f62616467656e2e6e65742f6769746875622f6f70656e2d6973737565732f6a6f6e6174616e736b6f6773666f72732f6c65732d6d6973657261626c65733f6c6162656c3d4b61706974656c2532306b766172267363616c653d3226616368654c6976653d333030
+      - name: Purge "Dagar kcar" badge cache
+        run: curl -X PURGE https://camo.githubusercontent.com/6ecf22a718c4df6bdaefa793616fc59f5eca4fd4e467ec3e714322bf6b5b3487/68747470733a2f2f62616467656e2e6e65742f72756e6b69742f6a6f6e6174616e736b6f6773666f72732f6c65732d74696d653f7363616c653d322563616368654c6976653d333030
+      - name: Purge "Läst" badge cache
+        run: curl -X PURGE https://camo.githubusercontent.com/fdff2b36630eed65914956d0a60e80b355f5bbea95810e13ae7487c5b104caec/68747470733a2f2f62616467656e2e6e65742f72756e6b69742f6a6f6e6174616e736b6f6773666f72732f6c65732d70726f677265733f7363616c653d322563616368654c6976653d333030
