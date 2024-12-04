@@ -6,7 +6,9 @@
 
 Jenni och jag läser *Samhällets olycksbarn* av Victor Hugo under 2024.
 
-Boken har 365 kapitel och målet är att vi ska bli klara på nyårsafton.
+Boken är uppdelad på 5 volymer, 48 böcker och 365 kapitel. Med en takt på ett kapitel om dagen tar det alltså precis ett år. Vårt mål är att bli klara på nyårsafton.
+
+Vi läser en svensk utgåva från 1927 som har 13 band med totalt 3263 sidor (ca 9 sidor per dag). Boken du har i bokhyllan är med största sannolikhet väldigt förkortad.
 
 ## Progress
 - [Alla böcker](https://github.com/jonatanskogsfors/les-miserables/milestones?direction=asc&sort=due_date&state=open)
