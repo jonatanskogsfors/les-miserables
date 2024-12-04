@@ -1,22 +1,12 @@
 name: Purge badge caches
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
+  issues:
+    types: [closed]
   workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Purge "Lästa kapitel" badge cache
         run: curl -X PURGE https://camo.githubusercontent.com/77a844c40ce0dc4b15f36fe8d66a94fc4855107f6ac5ef78b8a0db541fb00a5d/68747470733a2f2f62616467656e2e6e65742f6769746875622f636c6f7365642d6973737565732f6a6f6e6174616e736b6f6773666f72732f6c65732d6d6973657261626c65733f6c6162656c3d4c2543332541347374612532306b61706974656c267363616c653d3226616368654c6976653d333030
