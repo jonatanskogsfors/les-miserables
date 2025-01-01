@@ -1,7 +1,7 @@
 # Samhällets Olycksbarn
 ![Badge - Lästa kapitel](https://badgen.net/github/closed-issues/jonatanskogsfors/les-miserables?label=Lästa%20kapitel&scale=2&acheLive=300)
 ![Badge - Kapitel kvar](https://badgen.net/github/open-issues/jonatanskogsfors/les-miserables?label=Kapitel%20kvar&scale=2&acheLive=300)
-![Badge - Dagar kvar](https://badgen.net/runkit/jonatanskogsfors/les-time?scale=2%cacheLive=300)
+![Badge - Dagar kvar](https://badgen.net/runkit/jonatanskogsfors/les-time-2025?scale=2%cacheLive=300)
 ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/les-progres?scale=2%cacheLive=300)
 
 Jenni och jag läser *Samhällets olycksbarn* av Victor Hugo under 2024.
